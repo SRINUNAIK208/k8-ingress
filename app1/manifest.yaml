@@ -14,7 +14,7 @@ spec:
       project: roboshop
       tier: app
   template:
-    matadata:
+    metadata:
       labels:
         component: ingress
         project: roboshop
